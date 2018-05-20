@@ -1,2 +1,4 @@
 # hello-world
-Leraning GitHub
+Learning GitHub
+
+This is a test on how to edit README.md in a branch
